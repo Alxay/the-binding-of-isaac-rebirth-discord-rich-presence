@@ -70,7 +70,7 @@ Paste:
 Clone the Linux branch directly into your Isaac `mods` directory:
 
 ```bash
-git clone -b linux --single-branch https://github.com/Alxay/the-binding-of-isaac-rebirth-discord-rich-presence.git
+git clone https://github.com/Alxay/the-binding-of-isaac-rebirth-discord-rich-presence.git
 ```
 
 Clone it into:
