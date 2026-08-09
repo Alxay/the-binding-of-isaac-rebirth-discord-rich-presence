@@ -94,20 +94,28 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 ```
-
 ## Steam Launch Options (Required)
 
 Open:
 
-```
+```text
 The Binding of Isaac: Rebirth → Properties → Launch Options
 ```
 
 Paste:
 
 ```text
-"$STEAM_COMPAT_INSTALL_PATH/mods/The-Binding-of-Isaac-Rebirth-discord-rich-presence/launcher.sh" && %command%
+"$STEAM_COMPAT_INSTALL_PATH/mods/the-binding-of-isaac-rebirth-discord-rich-presence/launcher.sh" && %command%
 ```
+
+### For Repentogon
+
+If you are using Repentogon, use this launch option instead:
+
+```text
+"$STEAM_COMPAT_INSTALL_PATH/mods/the-binding-of-isaac-rebirth-discord-rich-presence/launcherREPENTOGON.sh" %command%
+```
+
 
 ### Important
 
