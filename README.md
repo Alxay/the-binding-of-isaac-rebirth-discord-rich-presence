@@ -11,6 +11,21 @@ Show your current Isaac run directly in Discord Rich Presence.
 - Optional: seed and boss status
 
 ---
+### 🪙 Cryptocurrency
+
+| Network         | Address                                        |
+| --------------- | ---------------------------------------------- |
+| 🟣 **Solana**   | `5tp3GTtJNb7nx1DXRYAKXX44abvBUaoCbhCDGvBP24in` |
+| 🔷 **Ethereum** | `0x13b967f2c34359aF011Df4acbC8f2DD2728b8785`   |
+| 🟠 **Bitcoin**  | `bc1qgwnsk9vwd7jg4366s50ax7dfszq89uyc8uq5cn`   |
+
+> 💜 Every donation helps keep the project alive and actively developed. Thank you!
+
+---
+
+<p align="center">
+  <b>Thank you for your support! 🚀</b>
+</p>
 
 # 🪟 Windows
 
