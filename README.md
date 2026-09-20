@@ -31,12 +31,6 @@ If you find this project useful, consider supporting its development ❤️
   <b>Thank you for your support! 🚀</b>
 </p>
 
----
-
-<p align="center">
-  <b>Thank you for your support! 🚀</b>
-</p>
-
 # 🪟 Windows
 
 ## Download
