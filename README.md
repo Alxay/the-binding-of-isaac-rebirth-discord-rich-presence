@@ -11,6 +11,10 @@ Show your current Isaac run directly in Discord Rich Presence.
 - Optional: seed and boss status
 
 ---
+## ☕ Support the Project
+
+If you find this project useful, consider supporting its development ❤️
+
 ### 🪙 Cryptocurrency
 
 | Network         | Address                                        |
@@ -20,6 +24,12 @@ Show your current Isaac run directly in Discord Rich Presence.
 | 🟠 **Bitcoin**  | `bc1qgwnsk9vwd7jg4366s50ax7dfszq89uyc8uq5cn`   |
 
 > 💜 Every donation helps keep the project alive and actively developed. Thank you!
+
+---
+
+<p align="center">
+  <b>Thank you for your support! 🚀</b>
+</p>
 
 ---
 
